@@ -33,5 +33,5 @@
         'static/src/xml/geoengine.xml',
     ],
     'installable': True,
-    'pre_init_hook': 'init_postgis',
+    #'pre_init_hook': 'init_postgis',
 }
